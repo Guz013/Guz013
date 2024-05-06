@@ -5,33 +5,43 @@
         </a>
     </div>
     <div align="center">
-        <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
-            <img src="./static/job-badge.svg"/>
-        </a>
-        <a href="https://guz.one">
-            <img src="./static/website-badge.svg"/>
-        </a>
-        <a href="mailto:contact.guz013@gmail.com?subject=GitHub profile&body=Nice profile btw!">
-            <img src="./static/email-badge.svg"/>
-        </a>
-        <a href="https://codeberg.com/Guz013">
-            <img src="./static/codeberg-badge.svg"/>
-        </a>
-        <a href="https://gitlab.com/Guz013">
-            <img src="./static/gitlab-badge.svg"/>
-        </a>
-        <a href="https://twitter.com/guz013_">
-            <img src="./static/twitter-badge.svg"/>
-        </a>
-        <a href="https://linkedin.com/in/guz013_">
-            <img src="./static/linkedin-badge.svg"/>
-        </a>
-        <a href="https://mastodon.social/@guz013">
-            <img src="./static/mastodon-badge.svg"/>
-        </a>
-        <a href="https://guzscode.tmumblr.com">
-            <img src="./static/tumblr-badge.svg"/>
-        </a>
+        <p>
+            <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
+                <img src="./static/job-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://guz.one">
+                <img src="./static/website-badge.svg"/>
+            </a>
+            <span/>
+            <a href="mailto:contact.guz013@gmail.com?subject=GitHub profile&body=Nice profile btw!">
+                <img src="./static/email-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://codeberg.com/Guz013">
+                <img src="./static/codeberg-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://gitlab.com/Guz013">
+                <img src="./static/gitlab-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://twitter.com/guz013_">
+                <img src="./static/twitter-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://linkedin.com/in/guz013_">
+                <img src="./static/linkedin-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://mastodon.social/@guz013">
+                <img src="./static/mastodon-badge.svg"/>
+            </a>
+            <span/>
+            <a href="https://guzscode.tmumblr.com">
+                <img src="./static/tumblr-badge.svg"/>
+            </a>
+        </p>
     </div>
 </div>
 
