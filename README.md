@@ -20,7 +20,7 @@ Edition" was a programming language and not just a random fancy word, utilizing
 said language to create my own game engine and diving more and more into the
 tech world as time passed. Now, after 4 years, looking out for roles in
 Full-stack development and/or DevTools/CLI tools development with
-JavaScript/TypeScript, Go^[1] or Rust^[2]. And, in the free time, working on
+JavaScript/TypeScript, Go[^1] or Rust[^2]. And, in the free time, working on
 open-source projects and organizations such as
 [Lored](https://github.com/LoredDev) and [Capytal
 Code](https://github.com/capytalcode). Visit my website for [more
