@@ -23,6 +23,9 @@
         <a href="https://twitter.com/guz013_">
             <img src="./static/twitter-badge.svg"/>
         </a>
+        <a href="https://linkedin.com/in/guz013_">
+            <img src="./static/linkedin-badge.svg"/>
+        </a>
         <a href="https://mastodon.social/@guz013">
             <img src="./static/mastodon-badge.svg"/>
         </a>
