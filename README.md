@@ -5,6 +5,9 @@
         </a>
     </div>
     <div align="center">
+        <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
+            <img src="./static/job-badge.svg"/>
+        </a>
         <a href="https://guz.one">
             <img src="./static/website-badge.svg"/>
         </a>
