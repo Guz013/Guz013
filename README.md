@@ -1,15 +1,31 @@
 <div>
     <div align="center">
-        <img src="./static/profile-banner.svg" width="1000"/>
+        <a href="https://guz.one/code">
+            <img src="./static/profile-banner.svg" width="1000"/>
+        </a>
     </div>
     <div align="center">
-        <img src="./static/website-badge.svg"/>
-        <img src="./static/email-badge.svg"/>
-        <img src="./static/codeberg-badge.svg"/>
-        <img src="./static/gitlab-badge.svg"/>
-        <img src="./static/twitter-badge.svg"/>
-        <img src="./static/mastodon-badge.svg"/>
-        <img src="./static/tumblr-badge.svg"/>
+        <a href="https://guz.one">
+            <img src="./static/website-badge.svg"/>
+        </a>
+        <a href="mailto:contact.guz013@gmail.com?subject=GitHub profile&body=Nice profile btw!">
+            <img src="./static/email-badge.svg"/>
+        </a>
+        <a href="https://codeberg.com/Guz013">
+            <img src="./static/codeberg-badge.svg"/>
+        </a>
+        <a href="https://gitlab.com/Guz013">
+            <img src="./static/gitlab-badge.svg"/>
+        </a>
+        <a href="https://twitter.com/guz013_">
+            <img src="./static/twitter-badge.svg"/>
+        </a>
+        <a href="https://mastodon.social/@guz013">
+            <img src="./static/mastodon-badge.svg"/>
+        </a>
+        <a href="https://guzscode.tmumblr.com">
+            <img src="./static/tumblr-badge.svg"/>
+        </a>
     </div>
 </div>
 
