@@ -47,7 +47,7 @@
 
 ---
 
-Software engineer based on Brazil since I learned that Java in "Minecraft: Java
+Software engineer based in Brazil since I learned that Java in "Minecraft: Java
 Edition" was a programming language and not just a random fancy word, utilizing
 said language to create my own game engine and diving more and more into the
 tech world as time passed. Now, after 4 years, looking out for roles in
