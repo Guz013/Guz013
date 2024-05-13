@@ -38,7 +38,7 @@
                 <img src="./static/mastodon-badge.svg"/>
             </a>
             <span> </span>
-            <a href="https://guzscode.tmumblr.com">
+            <a href="https://guzscode.tumblr.com">
                 <img src="./static/tumblr-badge.svg"/>
             </a>
         </p>
