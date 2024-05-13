@@ -18,7 +18,7 @@
                 <img src="./static/email-badge.svg"/>
             </a>
             <span> </span>
-            <a href="https://codeberg.com/Guz013">
+            <a href="https://codeberg.org/Guz013">
                 <img src="./static/codeberg-badge.svg"/>
             </a>
             <span> </span>
