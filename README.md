@@ -6,9 +6,9 @@
     </div>
     <div align="center">
         <p>
-            <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
+            <!-- <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
                 <img src="./static/job-badge.svg"/>
-            </a>
+            </a> -->
             <span> </span>
             <a href="https://guz.one">
                 <img src="./static/website-badge.svg"/>
