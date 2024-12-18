@@ -54,10 +54,10 @@ tech world as time passed. Now, after 4 years, looking out for roles in
 Full-stack development and/or DevTools/CLI tools development with
 JavaScript/TypeScript, Go[^1] or Rust[^2]. And, in the free time, working on
 open-source projects and organizations such as
-[Lored](https://github.com/LoredDev) and [Capytal
-Code](https://github.com/capytalcode). Visit my website for [more
+[Lored](https://forge.capytal.company/LoredDev) and [Capytal
+Code](https://forge.capytal.company/capytalcode). Visit my website for [more
 info](https://guz.one/about) and to see [all the
-projects](https://guz.one/projects).
+projects](https://forge.capytal.company/explore/repos).
 
 <p align="right"><sub>- Gustavo "Guz" L. de Mello (Written in May 6, 2024)</sub></p>
 
