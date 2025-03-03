@@ -4,16 +4,16 @@
             <img src="./static/profile-banner.svg" width="1000"/>
         </a>
     </div>
-    <div align="center">
+   <!--  <div align="center">
         <p>
-            <!-- <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
+           <a href="mailto:contact.guz013@gmail.com?subject=Job opportunity">
                 <img src="./static/job-badge.svg"/>
-            </a> -->
+            </a>
             <span> </span>
             <a href="https://guz.one">
                 <img src="./static/website-badge.svg"/>
             </a>
-            <span> </span>
+            <span> </span> I still need to update this email
             <a href="mailto:contact.guz013@gmail.com?subject=GitHub profile&body=Nice profile btw!">
                 <img src="./static/email-badge.svg"/>
             </a>
@@ -41,7 +41,7 @@
             <a href="https://guzscode.tumblr.com">
                 <img src="./static/tumblr-badge.svg"/>
             </a>
-        </p>
+        </p> -->
     </div>
 </div>
 
