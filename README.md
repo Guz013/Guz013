@@ -50,16 +50,14 @@
 Software engineer based in Brazil since I learned that Java in "Minecraft: Java
 Edition" was a programming language and not just a random fancy word, utilizing
 said language to create my own game engine and diving more and more into the
-tech world as time passed. Now, after 4 years, working on roles in
-full-stack development and DevTools/CLI tools development with
-JavaScript/TypeScript, Go[^1] or Rust[^2]. And, in the free time, working on
-open-source projects and organizations such as
-[Lored](https://forge.capytal.company/LoredDev) and [Capytal
+tech world as time passed. Now, after 6 years, working on roles in full-stack
+development and DevTools/CLI tools development with JavaScript/TypeScript, Go[^1]
+or Rust[^2]. And, in the free time, working on open-source projects and organizations
+such as [Lored](https://forge.capytal.company/LoredDev) and [Capytal
 Code](https://forge.capytal.company/capytalcode). Visit my website for [more
-info](https://guz.one/about) and to see [all the
-projects](https://forge.capytal.company/explore/repos).
+contact information](https://guz.one) and to see [all the projects](https://forge.capytal.company/explore/repos).
 
-<p align="right"><sub>- Gustavo "Guz" L. de Mello (Written in May 6, 2024)</sub></p>
+<p align="right"><sub>- Gustavo "Guz" L. de Mello (Updated in March 2025)</sub></p>
 
-[^1]: Currently learning to fix the mistake of using JavaScript in the server.
-[^2]: Currently learning to fix the mistake of using JavaScript for CLI applications.
+[^1]: To fix the mistake of using JavaScript in the server.
+[^2]: To fix the mistake of using JavaScript for CLI applications.
